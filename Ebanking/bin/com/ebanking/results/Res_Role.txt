@@ -1,0 +1,4 @@
+RoleName###RoleType###Results
+ClerkHydAxis###E^$^$^Role Already existed
+CashierHydAxis###E^$^$^Role Already existed
+ManagerHydAxis###E^$^$^Role Already existed

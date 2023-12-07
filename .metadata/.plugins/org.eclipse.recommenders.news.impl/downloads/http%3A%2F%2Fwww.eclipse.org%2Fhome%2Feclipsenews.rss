@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://newsroom.eclipse.org/">
+  <channel>
+    <title>Eclipse Announcements [%1]</title>
+    <link>https://newsroom.eclipse.org/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Introducing Eclipse ThreadX</title>
+  <link>https://newsroom.eclipse.org/news/announcements/introducing-eclipse-threadx</link>
+  <description>
+&lt;span&gt;Introducing Eclipse ThreadX&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Jacob Harris&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;Tue, 2023-11-21 12:28&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p dir="ltr"&gt;Eclipse Foundation executive director Mike Milinkovich explores why Eclipse ThreadX is exactly what the embedded real-time software market needs, and shares what’s next for the project in his new blog.&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-news-url field--type-link field--label-above"&gt;
+    &lt;div class="field--label"&gt;URL&lt;/div&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://blogs.eclipse.org/post/mike-milinkovich/introducing-eclipse-threadx"&gt;https://blogs.eclipse.org/post/mike-milinkovich/introducing-eclipse-threadx&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field--label"&gt;Tags&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/open-source" hreflang="en"&gt;open source&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Tue, 21 Nov 2023 17:28:45 +0000</pubDate>
+    <dc:creator>Jacob Harris</dc:creator>
+    <guid isPermaLink="false">39780 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>The Eclipse Foundation Releases 2023 IoT &amp; Edge Developer Survey Results </title>
+  <link>https://newsroom.eclipse.org/news/announcements/eclipse-foundation-releases-2023-iot-edge-developer-survey-results</link>
+  <description>
+&lt;span&gt;The Eclipse Foundation Releases 2023 IoT &amp; Edge Developer Survey Results &lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Jacob Harris&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;Tue, 2023-11-07 05:50&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p&gt;&lt;strong&gt;BRUSSELS – November 7, 2023 – &lt;/strong&gt;&lt;a href="http://www.eclipse.org" rel="nofollow"&gt;The Eclipse Foundation&lt;/a&gt;, one of the world’s largest open source software foundations, today announced results from its 2023 IoT &amp; Edge Developer Survey. Administered by the &lt;a href="https://iot.eclipse.org" rel="nofollow"&gt;Eclipse IoT Working Group&lt;/a&gt; and the &lt;a href="https://sparkplug.eclipse.org/" rel="nofollow"&gt;Eclipse Sparkplug Working Group&lt;/a&gt;, the survey provides essential insights into IoT and edge computing industry landscapes, challenges developers face, and the opportunities for enterprise stakeholders in the IoT &amp; edge open source ecosystem. Now in its ninth year, the survey is the IoT &amp; edge industry’s leading technical survey. &lt;/p&gt;
+&lt;p&gt;“This year’s results yielded some very interesting trends, particularly those related to real-world use cases and technology choices,” said Mike Milinkovich, executive director of the Eclipse Foundation. “What’s clear is that developers are actively building production solutions leveraging open source technologies to tackle today’s IoT challenges across industrial, agricultural, and municipal settings.”&lt;/p&gt;
+&lt;p&gt;The online survey was conducted from April 4, 2023, to July 5, 2023, during which 1,037 global developers, committers, architects, and decision-makers from a broad set of industries and organisations participated. Key findings include:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Development is increasing across all IoT sectors. Industrial automation &lt;/strong&gt;is once again the top area of focus (33%, up from 22%), followed by&lt;strong&gt; agriculture&lt;/strong&gt; (29 %, up from 23%&lt;strong&gt;), &lt;/strong&gt; &lt;strong&gt;building automation, energy management, &lt;/strong&gt;and&lt;strong&gt; smart cities&lt;/strong&gt; (all at 24%).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Developers indicate that Java is the preferred language &lt;/strong&gt;for IoT gateways and edge nodes, while C, C++, and Java are the most widely used languages for constrained devices.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MQTT is the top IIoT communication protocol. &lt;/strong&gt;Nearly half of developers (49%) indicate a preference for MQTT for IIoT communications, with MQTT + Sparkplug checking in at 8%.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The withdrawal of IoT Middleware providers has created an opportunity for innovators to enter the market.&lt;/strong&gt; Google Cloud IoT Platform, Bosch IoT Suite, IBM Watson IoT, and SAP Internet of Things all exited the market in 2022 or announced their intent to do so. While nearly half of respondents indicated a relationship with one or more of these providers, only 12% have migrated to a new provider. &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Control logic (40%) surpassed artificial intelligence (37%)&lt;/strong&gt; as the most common edge computing workload. Does this imply a renewed focus on the practical aspects of delivering real-world solutions? Only time will tell.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Software Supply Chain Security has become an essential issue for IoT/edge developers, &lt;/strong&gt;with 70% saying it is vital to their work. &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;5G is enabling accelerated IIoT adoption. &lt;/strong&gt;Cellular adoption has doubled since 2022 (44% vs. 22% in 2022) largely due to 5G penetration, while WiFi (38% vs. 36% in 2022), Ethernet (38% vs 29% in 2022) and Bluetooth (23% vs 20% in 2022) continue to be viable options.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The survey data contains further insights on developer choices for edge computing workloads, platform connectivity, developer concerns, and use case breakdowns by market. In addition, the report provides breakdowns of use cases by market and detailed recommendations on the next steps for IoT developers. The entire report can be &lt;a href="https://outreach.eclipse.foundation/iot-edge-developer-survey-2023" rel="nofollow"&gt;downloaded here&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About Eclipse IoT&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Eclipse IoT’s knowledge and expertise span 12+ years of experience in edge computing, IoT and Industrial IoT. Eclipse IoT is home to open source innovation that has delivered implementations of some of the industry’s most popular IoT protocols. CoAP (Eclipse Californium), DDS (Eclipse Cyclone DDS), LwM2M (Eclipse Leshan), MQTT (Eclipse Paho, Eclipse Mosquitto, and Eclipse Amlen), and OPC UA (Eclipse Milo) are all part of the Eclipse IoT ecosystem. The Eclipse IoT toolkit also contains an innovative homegrown protocol built from the ground up for edge computing: Eclipse Zenoh. In addition to other popular Eclipse IoT production-ready platforms that cover various use cases such as digital twins (Eclipse Ditto), contactless payments (Eclipse Keyple), industrial applications (Eclipse Kura), in addition to Eclipse Kapua — a modular IoT cloud platform that manages data and devices. Eclipse IoT is also the home of innovative edge orchestration platforms such as Eclipse ioFog and Eclipse Kanto.&lt;/p&gt;
+&lt;p&gt;To learn more about how to get involved with Eclipse IoT, Edge Native, Sparkplug, or other working groups at the Eclipse Foundation, visit &lt;a href="https://www.eclipse.org/membership/" rel="nofollow"&gt;the Foundation’s membership page&lt;/a&gt;. Working group members benefit from a broad range of services, including exclusive access to detailed industry research findings, marketing assistance, and expert open source governance.&lt;/p&gt;
+&lt;p&gt;For further IoT &amp; edge-related information, please visit &lt;a href="https://iot.eclipse.org/" rel="nofollow"&gt;iot.eclipse.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the Eclipse Foundation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Eclipse Foundation provides our global community of individuals and organisations with a business-friendly environment for open source software collaboration and innovation. We host the Eclipse IDE, Adoptium, Software Defined Vehicle, Jakarta EE, and over 425 open source projects, including runtimes, tools, specifications, and frameworks for cloud and edge applications, IoT, AI, automotive, systems engineering, open processor designs, and many others. Headquartered in Brussels, Belgium, the Eclipse Foundation is an international non-profit association supported by over 350 members. To learn more, follow us on social media &lt;a href="https://twitter.com/EclipseFdn" rel="nofollow"&gt;@EclipseFdn&lt;/a&gt;, &lt;a href="https://www.linkedin.com/company/34093/" rel="nofollow"&gt;LinkedIn&lt;/a&gt;, or visit &lt;a href="http://eclipse.org" rel="nofollow"&gt;eclipse.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Third-party trademarks mentioned are the property of their respective owners.&lt;/p&gt;
+&lt;p&gt;###&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Media contacts:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;Schwartz Public Relations for the Eclipse Foundation, AISBL (Germany)&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;Gloria Huppert, Franziska Wenzl&lt;/p&gt;
+&lt;p&gt;&lt;a href="mailto:EclipseFoundation@schwartzpr.de" rel="nofollow"&gt;EclipseFoundation@schwartzpr.de&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;+49 (89) 211 871 - 70 / - 58&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;u&gt;Nichols Communications for the Eclipse Foundation, AISBL&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;Jay Nichols&lt;/p&gt;
+&lt;p&gt;&lt;a href="mailto:jay@nicholscomm.com" rel="nofollow"&gt;jay@nicholscomm.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;+1 408-772-1551&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;u&gt;514 Media Ltd for the Eclipse Foundation, AISBL (France, Italy, Spain)&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;Benoit Simoneau&lt;/p&gt;
+&lt;p&gt;&lt;a href="mailto:benoit@514-media.com" rel="nofollow"&gt;benoit@514-media.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;M: +44 (0) 7891 920 370&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field--label"&gt;Tags&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/edge-computing" hreflang="en"&gt;Edge Computing&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/iot" hreflang="en"&gt;IoT&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/iot-developers" hreflang="en"&gt;iot developers&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Tue, 07 Nov 2023 10:50:00 +0000</pubDate>
+    <dc:creator>Jacob Harris</dc:creator>
+    <guid isPermaLink="false">39755 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>The Eclipse Foundation Announces Sparkplug as an International Standard for a “Plug and Play” Industrial IoT </title>
+  <link>https://newsroom.eclipse.org/news/announcements/eclipse-foundation-announces-sparkplug-international-standard-%E2%80%9Cplug-and-play%E2%80%9D</link>
+  <description>
+&lt;span&gt;The Eclipse Foundation Announces Sparkplug as an International Standard for a “Plug and Play” Industrial IoT &lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Jacob Harris&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;Tue, 2023-11-07 05:45&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p&gt;&lt;strong&gt;BRUSSELS – November 7, 2023 – &lt;/strong&gt;The&lt;a href="https://www.eclipse.org/" rel="nofollow"&gt; Eclipse Foundation&lt;/a&gt;, one of the world’s largest open source software foundations, in collaboration with the &lt;a href="https://sparkplug.eclipse.org/" rel="nofollow"&gt;Eclipse Sparkplug Working Group&lt;/a&gt;, today announced that the Sparkplug&lt;em&gt;®&lt;/em&gt; 3.0 specification has been published as an International Standard. This publication is the outcome of a transposition of the specification through the Publicly Available Specification (PAS) transposition process offered by the ISO and IEC Joint Technical Committee (JTC 1) for information technology, a consensus-based, voluntary international standards group. &lt;/p&gt;
+&lt;p&gt;The International Organization for Standardization and International Electrotechnical Commission (ISO/IEC) are global organisations that facilitate the development of International Standards that support innovation, sustainability, and global trade. Sparkplug&lt;em&gt;®&lt;/em&gt; is an open software specification that enables mission-critical operational technology (OT) clients to use industry standards, including OASIS MQTT, to seamlessly integrate data from their applications, sensors, devices, and gateways with most Industrial Internet Of Things (IIoT) infrastructure. As a result, Sparkplug&lt;em&gt;®&lt;/em&gt; enables businesses to easily deploy complex, mission-critical IIoT systems in record time.&lt;/p&gt;
+&lt;p&gt;“The publication of Sparkplug&lt;em&gt;®&lt;/em&gt; 3.0 as an international standard is significant, not just for the Sparkplug community, but for any organisation that needs to digitally transform their business by leveraging IIoT technologies,” said Mike Milinkovich, executive director for the Eclipse Foundation. “Sparkplug has been experiencing meteoric growth over the past few years, primarily driven by the ongoing transition to true IIoT infrastructure across multiple industries. It provides the key to true, easy integration across the many disparate technologies that make up this complex OT/IT ecosystem. Sparkplug’s new status as an international standard will accelerate this adoption while simultaneously serving as recognition of its immense value to the industry.” &lt;/p&gt;
+&lt;p&gt;The PAS transposition process for reviewing and approving externally developed specifications at JTC 1 is neutral to all contributors and includes industry-wide participation. Going forward, the Sparkplug&lt;em&gt;®&lt;/em&gt; specification will also be known as &lt;a href="https://www.iso.org/standard/86204.html" rel="nofollow"&gt;ISO/IEC 20237&lt;/a&gt;. The Eclipse Foundation retains stewardship of the specification and intends to submit future revisions through the PAS transposition process. &lt;/p&gt;
+&lt;p&gt;“JTC 1 appreciates the opportunity to work with The Eclipse Foundation on this project, and we congratulate the Foundation on the approval of ISO/IEC 20237,” said Phil Wennblom, JTC 1 Chair. “JTC 1 looks forward to our future collaboration.”&lt;/p&gt;
+&lt;p&gt;ISO/IEC International Standards are the global benchmarks for businesses, manufacturers, vendors, and service providers regarding approved and validated safety features, quality measures, and interoperability. By becoming an ISO/IEC standard, a technology is effectively established as a globally recognized technical ecosystem and benefits from global acceptance of products, accelerated adoption, and expanded reach. &lt;/p&gt;
+&lt;p&gt;The Sparkplug&lt;em&gt;®&lt;/em&gt; Working Group is simultaneously launching a &lt;a href="https://sparkplug.eclipse.org/compatibility/compatible-software/" rel="nofollow"&gt;product compatibility program&lt;/a&gt; for Sparkplug implementers. The program will ensure that Sparkplug-compatible products and implementations demonstrate a high degree of compatibility and interoperability. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About Sparkplug&lt;/strong&gt;&lt;em&gt;&lt;strong&gt;®&lt;/strong&gt;&lt;/em&gt;&lt;strong&gt; &amp; MQTT&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sparkplug&lt;em&gt;®&lt;/em&gt; provides an open and freely available specification for how Edge of Network (EoN) gateways or native MQTT-enabled end devices and MQTT Applications communicate bi-directionally within an MQTT Infrastructure. It is recognized that OASIS MQTT is used across a broad spectrum of application solution use cases and an almost indefinable variation of network topologies. &lt;/p&gt;
+&lt;p&gt;By design, the MQTT specification does not dictate a Topic Namespace or any payload encoding. However, as the IIoT and other architectures leveraging the publisher/subscriber model are adopted by device OEMs in the industrial sector, having different Topic Namespace and payload encoding can inhibit interoperability for the end customer. To that end, the Sparkplug specification addresses the following components within an MQTT infrastructure: &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Sparkplug&lt;em&gt;®&lt;/em&gt; defines an OT-centric Topic Namespace &lt;/li&gt;
+&lt;li&gt;Sparkplug&lt;em&gt;®&lt;/em&gt; defines an OT-centric Payload definition optimised for industrial process variables. &lt;/li&gt;
+&lt;li&gt;Sparkplug&lt;em&gt;®&lt;/em&gt; defines MQTT Session State management required by real-time OT SCADA systems.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;About the Eclipse Foundation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Eclipse Foundation provides our global community of individuals and organisations with a business-friendly environment for open source software collaboration and innovation. We host the Eclipse IDE, Adoptium, Software Defined Vehicle, Jakarta EE, and over 425 open source projects, including runtimes, tools, specifications, and frameworks for cloud and edge applications, IoT, AI, automotive, systems engineering, open processor designs, and many others. Headquartered in Brussels, Belgium, the Eclipse Foundation is an international non-profit association supported by over 350 members. To learn more, follow us on social media &lt;a href="https://twitter.com/EclipseFdn" rel="nofollow"&gt;@EclipseFdn&lt;/a&gt;, &lt;a href="https://www.linkedin.com/company/34093/" rel="nofollow"&gt;LinkedIn&lt;/a&gt;, or visit &lt;a href="http://eclipse.org" rel="nofollow"&gt;eclipse.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Third-party trademarks mentioned are the property of their respective owners.&lt;/p&gt;
+&lt;p&gt;###&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Media contacts:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;Schwartz Public Relations for the Eclipse Foundation, AISBL (Germany)&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;Gloria Huppert, Franziska Wenzl&lt;/p&gt;
+&lt;p&gt;&lt;a href="mailto:EclipseFoundation@schwartzpr.de" rel="nofollow"&gt;EclipseFoundation@schwartzpr.de&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;+49 (89) 211 871 - 70 / - 58&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;u&gt;Nichols Communications for the Eclipse Foundation, AISBL&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;Jay Nichols&lt;/p&gt;
+&lt;p&gt;&lt;a href="mailto:jay@nicholscomm.com" rel="nofollow"&gt;jay@nicholscomm.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;+1 408-772-1551&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;u&gt;514 Media Ltd for the Eclipse Foundation, AISBL (France, Italy, Spain)&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;Benoit Simoneau&lt;/p&gt;
+&lt;p&gt;&lt;a href="mailto:benoit@514-media.com" rel="nofollow"&gt;benoit@514-media.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;M: +44 (0) 7891 920 370&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-news-image field--type-image field--label-above"&gt;
+    &lt;div class="field--label"&gt;Image&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;  &lt;img loading="lazy" src="https://newsroom.eclipse.org/sites/default/files/news/PR%20-%20Sparkplug%20Compatibility%20Phase%202%20%282%29.png" width="1024" height="512" alt="" class="img-responsive" /&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field--label"&gt;Tags&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/sparkplug" hreflang="en"&gt;sparkplug&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/iiot" hreflang="en"&gt;iiot&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Tue, 07 Nov 2023 10:45:00 +0000</pubDate>
+    <dc:creator>Jacob Harris</dc:creator>
+    <guid isPermaLink="false">39754 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>Eclipse Jetty Security Audit Has Been Completed</title>
+  <link>https://newsroom.eclipse.org/news/announcements/eclipse-jetty-security-audit-has-been-completed</link>
+  <description>
+&lt;span&gt;Eclipse Jetty Security Audit Has Been Completed&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Jacob Harris&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;Wed, 2023-10-18 11:55&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p&gt;We’re proud to share that the Eclipse Foundation has completed the security audit for &lt;a href="https://eclipse.dev/jetty/" rel="nofollow"&gt;Eclipse Jetty&lt;/a&gt;, one of the world’s most widely deployed web server and servlet containers. All users are encouraged to &lt;a href="https://eclipse.dev/jetty/download.php" rel="nofollow"&gt;upgrade to versions&lt;/a&gt; containing changes addressing all conclusions of the audit: Eclipse Jetty &lt;code&gt;12.0.0&lt;/code&gt;, &lt;code&gt;11.0.16&lt;/code&gt;, &lt;code&gt;10.0.16&lt;/code&gt;, and &lt;code&gt;9.4.53&lt;/code&gt;.&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-news-url field--type-link field--label-above"&gt;
+    &lt;div class="field--label"&gt;URL&lt;/div&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://blogs.eclipse.org/post/mika%C3%ABl-barbero/eclipse-jetty-security-audit-has-been-completed"&gt;https://blogs.eclipse.org/post/mika%C3%ABl-barbero/eclipse-jetty-security-audit…&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Wed, 18 Oct 2023 15:55:52 +0000</pubDate>
+    <dc:creator>Jacob Harris</dc:creator>
+    <guid isPermaLink="false">39728 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>Eclipse Foundation Establishes Category A Liaison With ISO/IEC JTC 1/SC 38 for Cloud Computing and Distributed Platforms</title>
+  <link>https://newsroom.eclipse.org/news/announcements/eclipse-foundation-establishes-category-liaison-isoiec-jtc-1sc-38-cloud</link>
+  <description>
+&lt;span&gt;Eclipse Foundation Establishes Category A Liaison With ISO/IEC JTC 1/SC 38 for Cloud Computing and Distributed Platforms&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Frédéric Desbiens&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;Tue, 2023-10-03 09:00&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p dir="ltr"&gt;In preparation for the upcoming launch of the Eclipse Dataspaces Working Group, we are proud to announce the establishment of a Category A liaison between Eclipse Foundation AISBL and&lt;a href="https://www.iso.org/committee/601355.html" rel="nofollow"&gt; &lt;u&gt;ISO/IEC JTC 1/SC 38&lt;/u&gt;&lt;/a&gt; (Cloud Computing and Distributed Platforms).&lt;/p&gt;
+&lt;p dir="ltr"&gt;SC 38 pursues standardization in Cloud Computing and Distributed Platforms, including Foundational concepts and technologies, operational issues, and interactions among cloud computing systems and other distributed systems.&lt;/p&gt;
+&lt;p dir="ltr"&gt;A dataspace is a multi-organizational agreement and a supporting technical infrastructure enabling data sharing between two or more participants. Dataspaces are naturally distributed, hence SC 38's interest in them.&lt;/p&gt;
+&lt;p dir="ltr"&gt;The Eclipse Foundation is home to the &lt;a href="https://projects.eclipse.org/projects/technology.edc" rel="nofollow"&gt;&lt;u&gt;Eclipse Dataspace Components project&lt;/u&gt;&lt;/a&gt; (EDC). EDC is a comprehensive framework providing a basic set of features that dataspace implementations can use and customize while preserving interoperability through a well-defined API. EDC implements the Gaia-X AISBL Trust Framework and the IDSA Dataspace protocol.&lt;/p&gt;
+&lt;p dir="ltr"&gt;By establishing this liaison, the Eclipse Foundation intends to contribute its expertise to future standardization efforts revolving around cloud computing, dataspaces, and edge computing. Existing and upcoming Eclipse specifications could eventually be transposed into standards as well.&lt;/p&gt;
+&lt;p&gt;The Eclipse Foundation obtained the status of Publicly Available Specification (PAS) submitter back in November 2022. Since then, it has successfully submitted its&lt;a href="https://sparkplug.eclipse.org" rel="nofollow"&gt; &lt;u&gt;Sparkplug&lt;/u&gt;&lt;/a&gt; specification for transposition as an international standard. Sparkplug will officially be published as&lt;a href="https://www.iso.org/standard/86204.html" rel="nofollow"&gt; &lt;u&gt;ISO/IEC 20237&lt;/u&gt;&lt;/a&gt; in the upcoming months.&lt;/p&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Tue, 03 Oct 2023 13:00:00 +0000</pubDate>
+    <dc:creator>Frédéric Desbiens</dc:creator>
+    <guid isPermaLink="false">39711 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title> The CRA should support open practices of open source and the development of European Open source to the advantage of small and medium size entreprises (SMEs)</title>
+  <link>https://newsroom.eclipse.org/news/announcements/cra-should-support-open-practices-open-source-and-development-european-open</link>
+  <description>
+&lt;span&gt; The CRA should support open practices of open source and the development of European Open source to the advantage of small and medium size entreprises (SMEs)&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Shanda Giacomoni&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;Thu, 2023-09-21 01:00&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p dir="ltr"&gt;As the European Union is about to initiate negotiations between co-legislators on the Cyber Resilience Act (CRA), we, the undersigned organisations and contributors to leading European open source software (OSS), herewith express our utmost concerns about the consequences of the proposed CRA, and misconceptions throughout the EU legislative process.&lt;/p&gt;
+&lt;p class="text-align-justify" dir="ltr"&gt;In this time of increasing awareness of the challenges to European open strategic autonomy, Europe needs a strong open source community supportive of SMEs, startups and scaleups, but also accountability of large corporations in increasing cybersecurity.&lt;/p&gt;
+&lt;p class="text-align-justify" dir="ltr"&gt;We deeply share the CRA’s aim to improve cybersecurity in the EU and embrace the urgent need to protect citizens and economies by improving software security. &lt;/p&gt;
+&lt;p class="text-align-justify" dir="ltr"&gt;We welcome some recent positive changes brought by the co-legislators, such as the manufacturers’ obligation to report vulnerabilities to the entity maintaining OSS.&lt;/p&gt;
+&lt;p class="text-align-justify" dir="ltr"&gt;However, should the proposal or the position of the European Parliament be adopted as it stands, the CRA would: decrease the number of OSS projects available to European SMEs; increase the control over OSS initiatives by large corporations; jeopardise the fragile equilibrium that benefits SMEs which contributes to European innovation; and reduce the security of products available to consumers.&lt;/p&gt;
+&lt;p class="text-align-justify" dir="ltr"&gt;Thus, in order to not harm European innovation we urge co-legislators to consider the following:&lt;/p&gt;
+&lt;ul&gt;&lt;li dir="ltr"&gt;Clearly state that if open source software under the governance of a non-profit falls within the scope of the legislation, legal responsibility should only be on commercial entities supplying the software in the course of a commercial activity, and not the governing non-profit which makes the software available free of charge;&lt;/li&gt;
+&lt;li dir="ltr"&gt;Recognise for open source software that is under the governance of non-profits that are acting as neutral spaces, those non-profits may accept to collaborate with for-profit entities by coordinating the compliance of the software;&lt;/li&gt;
+&lt;li dir="ltr"&gt;Allow the CE marking and overall compliance managed by commercial entities, to be reusable by the OS community.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class="text-align-justify" dir="ltr"&gt;With these elements the CRA could achieve one of its objectives to regulate and improve the cybersecurity practices of OSS used in commercial activities without altering the equilibrium of OSS development, research and collaboration, which currently plays to the advantage of European SMEs and innovation.&lt;/p&gt;
+&lt;p class="text-align-justify" dir="ltr"&gt;The undersigned organisations collectively represent a large part of the open source ecosystem in Europe. We offer our collective expertise, and support an increased dialogue towards the CRA’s successful implementation in this new regulatory paradigm.&lt;/p&gt;
+&lt;p class="text-align-center" dir="ltr"&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src="https://live.staticflickr.com/65535/53199196463_88cbb06960_c.jpg" alt="CRA undersigned organizations" /&gt;&lt;/p&gt;&lt;p&gt;Download the PDF in &lt;a href="https://drive.google.com/file/d/1F_0NeZC8n8RKJ-lXZ48cUag5Xl_GIWZG/view?usp=drive_link" rel="nofollow"&gt;English&lt;/a&gt;. &lt;/p&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Thu, 21 Sep 2023 05:00:00 +0000</pubDate>
+    <dc:creator>Shanda Giacomoni</dc:creator>
+    <guid isPermaLink="false">39683 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>OpenHW Group Appoints Florian 'Flo' Wohlrab as New CEO to Spearhead Open-Source Ecosystem Advancement</title>
+  <link>https://newsroom.eclipse.org/news/announcements/openhw-group-appoints-florian-flo-wohlrab-new-ceo-spearhead-open-source</link>
+  <description>
+&lt;span&gt;OpenHW Group Appoints Florian 'Flo' Wohlrab as New CEO to Spearhead Open-Source Ecosystem Advancement&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Christopher Guindon&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;Wed, 2023-09-20 15:00&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p&gt;OpenHW Group, dedicated to fostering collaboration among hardware and software designers on open-source cores, related IP, tools, and software projects, has chosen Wohlrab to lead the organization into a new era of open-source innovation.&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-news-url field--type-link field--label-above"&gt;
+    &lt;div class="field--label"&gt;URL&lt;/div&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://www.openhwgroup.org/news/2023/09/20/openhw-group-appoints-florian-flo-wohlrab-as-new-ceo-to-spearhead-open-source-ecosystem-advancement/"&gt;https://www.openhwgroup.org/news/2023/09/20/openhw-group-appoints-florian-flo-w…&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field--label"&gt;Tags&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/openhw-group" hreflang="en"&gt;OpenHW Group&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Wed, 20 Sep 2023 19:00:00 +0000</pubDate>
+    <dc:creator>Christopher Guindon</dc:creator>
+    <guid isPermaLink="false">39689 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>The Eclipse Foundation Releases 2023 Jakarta EE Developer Survey Report</title>
+  <link>https://newsroom.eclipse.org/news/announcements/eclipse-foundation-releases-2023-jakarta-ee-developer-survey-report</link>
+  <description>
+&lt;span&gt;The Eclipse Foundation Releases 2023 Jakarta EE Developer Survey Report&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Jacob Harris&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;Tue, 2023-09-19 07:00&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p&gt;&lt;strong&gt;BRUSSELS – September 19, 2023 – &lt;/strong&gt;&lt;a href="http://www.eclipse.org" rel="nofollow"&gt;The Eclipse Foundation&lt;/a&gt;, one of the world’s largest open source software foundations, today announced the availability of the 2023 Jakarta EE Developer Survey Report, the industry’s most prominent survey for technical insights into enterprise Java. The results showcase a significantly increased growth in the use of Jakarta EE and a growing interest in cloud native Java overall. The 2023 Jakarta EE Developer Survey Report can be downloaded in its entirety &lt;a href="https://outreach.eclipse.foundation/jakarta-ee-developer-survey-2023" rel="nofollow"&gt;here&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;“2023 has seen the continued growth of cloud native Java, with open source leading the way,” said Mike Milinkovich, executive director of the Eclipse Foundation. “The release of Jakarta EE 10 truly opened the doors for this shift, and as we set our sights on Jakarta EE 11 our community is looking to drive innovation for enterprise developers by providing new and enhanced APIs and embracing new features in the Java language and platform.”&lt;/p&gt;
+&lt;p&gt;Now in its sixth year, the Jakarta EE Developer Survey plays a crucial role in providing insight into the needs, preferences, and perspectives of developers within the Java ecosystem. Additionally, it also serves as a valuable resource to help the Java ecosystem better understand the evolving landscape of cloud-native enterprise Java and what that means for their respective strategies and businesses. Spanning from March 14 to May 23, 2025, this year’s survey engaged a total of 2,203 participants.&lt;/p&gt;
+&lt;p&gt;Here are some of the key findings from this year’s survey:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Spring/Spring Boot, which incorporates elements of Jakarta EE, continues to dominate as the leading Java framework for cloud native applications at 66%. (up from 57% in 2022). Jakarta EE usage remains steady at 53%, while MicroProfile usage experienced a slight decline, dropping from 30% in 2022 to 26% in 2023. It’s important to note that Spring/SpringBoot is reliant on Jakarta EE developments for its operation and is not necessarily competitive with Jakarta EE. Both are critical ingredients to the healthy enterprise Java ecosystem.&lt;/li&gt;
+&lt;li&gt;28% of the respondents will develop cloud native applications to replace some or all existing services (up from 25% in 2022) while 24% will modify existing Java applications for migration in the cloud (vs 28% in 2022). 22% of the respondents are currently running their Java applications in the cloud (vs 18% in 2022)&lt;/li&gt;
+&lt;li&gt;Despite only shipping in September 2022, Jakarta EE 10 usage has grown to 17%.&lt;/li&gt;
+&lt;li&gt;Over 60% of respondents (59% in 2022) have already migrated to Jakarta EE, or plan to do so within the next 6-24 months.&lt;/li&gt;
+&lt;li&gt;17% of respondents run Jakarta EE 9/9.1 in production (up from 14% in 2022) and 28% currently run Jakarta EE 8 in production (vs 24% in 2022)&lt;/li&gt;
+&lt;li&gt;The Jakarta EE Community is deeply interested in adopting the innovations implemented in Java SE into Jakarta EE (30%). This is a good indicator that Jakarta EE 11 release plan is on the right direction by adopting new Java SE 21 features.&lt;/li&gt;
+&lt;li&gt;The Top five community priorities for Jakarta EE are:
+&lt;ul&gt;&lt;li&gt;Better support for Kubernetes 50% (51% in 2022)&lt;/li&gt;
+&lt;li&gt;Better support for microservices (48%)&lt;/li&gt;
+&lt;li&gt;Adapt Java SE innovations (such as Records and Virtual Threads) (30%)&lt;/li&gt;
+&lt;li&gt;Improve support for serverless (25%)&lt;/li&gt;
+&lt;li&gt;Faster support from existing Java EE / Jakarta EE or cloud vendors, improve support for testing &amp; faster pace of innovation (23%) &lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;With regard to the community’s priorities in terms of the future of Jakarta EE, it is interesting to find that the first two priorities remain consistent over the past two years, from 2021 to 2023. However, last year’s 3rd place priority “Faster Support from existing Java EE / Jakarta EE or cloud vendors,” has been overtaken by a shift to adapting Java SE innovations and serverless support. &lt;/p&gt;
+&lt;p&gt;The Jakarta EE community welcomes contributions and participation from all interested individuals and organizations. As the Jakarta EE Working Group diligently works towards the Jakarta EE 11 release, which includes innovative cloud native features, there’s no better time to become part of this vibrant community and make your voice heard. To get involved and connect with the global community, visit us &lt;a href="https://jakarta.ee/connect/" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For organizations that value enterprise Java and would like to help shape its future, the Jakarta EE Working Group offers a unique opportunity. Membership in the working group not only supports the sustainability of the community, but also provides avenues for participating in marketing initiatives and direct engagement with the community. Discover the numerous benefits and advantages of membership &lt;a href="https://jakarta.ee/membership/" rel="nofollow"&gt;here&lt;/a&gt;. Your involvement can help drive the future of enterprise Java.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Quotes from Jakarta EE Working Group Member Organizations &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;IBM&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;“It is great to see the progress made with developers around Jakarta EE adoption,” said Ian Robinson, CTO, IBM Application Runtimes. “We continue to innovate and deliver complete Jakarta EE compatibility and production support, along with MicroProfile and Spring Boot, with our Liberty runtime making it the ideal runtime for cloud-native applications.”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Oracle&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;“The 50%+ growth in survey responses indicates a vibrant Jakarta EE community that is looking for improved Kubernetes support, microservices support, and adoption of new Java SE features such as virtual threads. Oracle’s investments in WebLogic Server, Helidon, Coherence, and Verrazzano are aligned with these trends, and the survey results provide valuable insights into these and other trends in the enterprise Java community.” - Tom Snyder, VP of Engineering, Oracle Enterprise Cloud Native Java&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Payara&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;“It is fantastic to see such an increase in participation in this year's comprehensive Jakarta EE Developer Survey. Especially encouraging is the growth in use of Jakarta EE 10, despite it only shipping in December,” said Steve Millidge, CEO and Founder, Payara. “We help developers enjoy its new features, with our Payara Platform 6 Enterprise and Community Edition. Respondents continue to ask for greater support for Kubernetes and Docker in Jakarta EE. We hope to provide an alternate solution for this, with our fully managed cloud native runtime, Payara Cloud, taking away the hassle of Kubernetes for Jakarta EE developers altogether. Overall, the future looks bright for Jakarta EE and Payara, as we note with pride that the percentage of respondents using Payara has also increased!”&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the Eclipse Foundation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Eclipse Foundation provides our global community of individuals and organizations with a mature, scalable, and business-friendly environment for open source software collaboration and innovation. The Foundation is home to the Eclipse IDE, Jakarta EE, and over 400 open source projects, including runtimes, tools, and frameworks for cloud and edge applications, IoT, AI, automotive, systems engineering, distributed ledger technologies, open processor designs, and many others. The Eclipse Foundation is an international non-profit association supported by over 330 members, including industry leaders who value open source as a key enabler for their business strategies. To learn more, follow us on social media &lt;a href="https://twitter.com/EclipseFdn" rel="nofollow"&gt;@EclipseFdn&lt;/a&gt;,&lt;a href="https://linkedin.com/company/eclipse-foundation" rel="nofollow"&gt; LinkedIn&lt;/a&gt;, or visit&lt;a href="http://eclipse.org" rel="nofollow"&gt; eclipse.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Third-party trademarks mentioned are the property of their respective owners.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p class="text-align-center"&gt;###&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Media contacts:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Schwartz Public Relations for the Eclipse Foundation, AISBL (Germany)&lt;/p&gt;
+&lt;p&gt;Gloria Huppert, Franziska Wenzl&lt;/p&gt;
+&lt;p&gt;&lt;a href="mailto:EclipseFoundation@schwartzpr.de" rel="nofollow"&gt;EclipseFoundation@schwartzpr.de&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;+49 (89) 211 871 - 70 / - 58&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Nichols Communications for the Eclipse Foundation, AISBL&lt;/p&gt;
+&lt;p&gt;Jay Nichols&lt;/p&gt;
+&lt;p&gt;&lt;a href="mailto:jay@nicholscomm.com" rel="nofollow"&gt;jay@nicholscomm.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;+1 408-772-1551&lt;/p&gt;
+&lt;p&gt;514 Media Ltd for the Eclipse Foundation, AISBL (France, Italy, Spain)&lt;/p&gt;
+&lt;p&gt;Benoit Simoneau&lt;/p&gt;
+&lt;p&gt;&lt;a href="mailto:benoit@514-media.com" rel="nofollow"&gt;benoit@514-media.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;M: +44 (0) 7891 920 370&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-tags field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field--label"&gt;Tags&lt;/div&gt;
+          &lt;div class="field--items"&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/jakarta-ee" hreflang="en"&gt;Jakarta EE&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field--item"&gt;&lt;a href="https://newsroom.eclipse.org/tags/java-ee" hreflang="en"&gt;java ee&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+  <pubDate>Tue, 19 Sep 2023 11:00:00 +0000</pubDate>
+    <dc:creator>Jacob Harris</dc:creator>
+    <guid isPermaLink="false">39684 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>Eclipse Foundation Publishes Results of Eclipse JKube Security Audit</title>
+  <link>https://newsroom.eclipse.org/news/announcements/eclipse-foundation-publishes-results-eclipse-jkube-security-audit</link>
+  <description>
+&lt;span&gt;Eclipse Foundation Publishes Results of Eclipse JKube Security Audit&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Jacob Harris&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;Fri, 2023-09-15 13:16&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p&gt;This audit included a documentation review, static code review and manual review, which uncovered two findings that have been addressed by the JKube team through container configuration improvements.&lt;/p&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-news-url field--type-link field--label-above"&gt;
+    &lt;div class="field--label"&gt;URL&lt;/div&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://blogs.eclipse.org/post/mika%C3%ABl-barbero/eclipse-foundation-publishes-results-eclipse-jkube-security-audit"&gt;https://blogs.eclipse.org/post/mika%C3%ABl-barbero/eclipse-foundation-publishes…&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Fri, 15 Sep 2023 17:16:30 +0000</pubDate>
+    <dc:creator>Jacob Harris</dc:creator>
+    <guid isPermaLink="false">39682 at https://newsroom.eclipse.org</guid>
+    </item>
+<item>
+  <title>Eclipse IDE 2023-09 Is Now Available</title>
+  <link>https://newsroom.eclipse.org/news/announcements/eclipse-ide-2023-09-now-available</link>
+  <description>
+&lt;span&gt;Eclipse IDE 2023-09 Is Now Available&lt;/span&gt;
+
+&lt;span&gt;&lt;span&gt;Jacob Harris&lt;/span&gt;&lt;/span&gt;
+
+&lt;span&gt;Wed, 2023-09-13 12:07&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;&lt;p&gt;Featuring improved plug-in &amp; development tooling and several other new features, the latest edition of the Eclipse IDE delivers what you need to rapidly innovate.  &lt;/p&gt;&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-news-url field--type-link field--label-above"&gt;
+    &lt;div class="field--label"&gt;URL&lt;/div&gt;
+              &lt;div class="field--item"&gt;&lt;a href="https://eclipseide.org/"&gt;https://eclipseide.org/&lt;/a&gt;&lt;/div&gt;
+          &lt;/div&gt;
+</description>
+  <pubDate>Wed, 13 Sep 2023 16:07:13 +0000</pubDate>
+    <dc:creator>Jacob Harris</dc:creator>
+    <guid isPermaLink="false">39680 at https://newsroom.eclipse.org</guid>
+    </item>
+
+  </channel>
+</rss>
